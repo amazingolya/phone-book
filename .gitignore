@@ -1,0 +1,45 @@
+# Project exclude paths
+.idea
+.gradle
+/.gradle/
+/Phone Book/task/build/
+/Phone Book/task/out/
+/Phone Book/task/out/production/classes/
+/Problems/A fixed point/out/
+/Problems/A fixed point/out/production/classes/
+/Problems/Area of a circle/out/
+/Problems/Area of a circle/out/production/classes/
+/Problems/Count comparisons/out/
+/Problems/Count comparisons/out/production/classes/
+/Problems/Division/out/
+/Problems/Division/out/production/classes/
+/Problems/Find a block that may contain the target value/out/
+/Problems/Find a block that may contain the target value/out/production/classes/
+/Problems/Finding a collection of elements in a sorted array/out/
+/Problems/Finding a collection of elements in a sorted array/out/production/classes/
+/Problems/Heron's formula/out/
+/Problems/Heron's formula/out/production/classes/
+/Problems/Implementing the EntrySet method/out/
+/Problems/Implementing the EntrySet method/out/production/classes/
+/Problems/Liquid pressure/out/
+/Problems/Liquid pressure/out/production/classes/
+/Problems/Move the pivot/out/
+/Problems/Move the pivot/out/production/classes/
+/Problems/Number of decompositions/out/
+/Problems/Number of decompositions/out/production/classes/
+/Problems/Pow/out/
+/Problems/Pow/out/production/classes/
+/Problems/Print comparisons/out/
+/Problems/Print comparisons/out/production/classes/
+/Problems/Quadratic equation/out/
+/Problems/Quadratic equation/out/production/classes/
+/Problems/Rehashing/out/
+/Problems/Rehashing/out/production/classes/
+/Problems/Removing/out/
+/Problems/Removing/out/production/classes/
+/Problems/Safe converting/out/
+/Problems/Safe converting/out/production/classes/
+/Problems/Searching in a descending sorted array/out/
+/Problems/Searching in a descending sorted array/out/production/classes/
+/Problems/Swaps/out/
+/Problems/Swaps/out/production/classes/
